@@ -1,6 +1,6 @@
-
 ________________________________________
 Home Automation with Raspberry Pi Pico W (Bluetooth)
+
 Overview
   This project enables home automation using Raspberry Pi Pico W with built-in Bluetooth. The system allows wireless control of GPIO pins via a Serial Bluetooth Terminal on an Android phone.
 Features
@@ -43,6 +43,3 @@ Future Enhancements
   •	Implementing a mobile app for better UI control.
   •	Expanding to include sensor data readings.
 ________________________________________
-hgfhgd
-gfhgd
-hfhxs

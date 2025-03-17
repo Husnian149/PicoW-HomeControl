@@ -1,4 +1,28 @@
-# 🚀 Home Automation with Raspberry Pi Pico W (Bluetooth)  
+<p align="center">
+  <a href="https://github.com/your-username/your-repository" target="_blank">
+    <img src="https://your-image-url.com/logo.png" alt="Project Logo" width="150"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/your-username/your-repository/stargazers" target="_blank">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/your-username/your-repository?style=flat-square" />
+  </a>
+  <a href="https://github.com/your-username/your-repository/releases" target="_blank">
+    <img alt="Latest Release" src="https://img.shields.io/github/v/release/your-username/your-repository?style=flat-square" />
+  </a>
+  <a href="https://github.com/your-username/your-repository/issues" target="_blank">
+    <img alt="Issues" src="https://img.shields.io/github/issues/your-username/your-repository?style=flat-square" />
+  </a>
+</p>
+
+<h1 align="center">Home Automation with Raspberry Pi Pico W (Bluetooth) 🚀</h1>
+
+<p align="center">
+  A simple and efficient home automation system using <strong>Raspberry Pi Pico W</strong> with built-in <strong>Bluetooth</strong>.
+</p>
+
+---
 
 ## 📌 Overview  
 This project enables **home automation** using **Raspberry Pi Pico W** with built-in **Bluetooth**.  
@@ -7,9 +31,9 @@ The system allows **wireless control of GPIO pins** via a **Serial Bluetooth Ter
 ---
 
 ## 🎯 Features  
-- ✅ Wireless control of **GPIO pins** using Bluetooth commands.  
-- ✅ Simple and efficient **BLE (Bluetooth Low Energy)** communication.  
-- ✅ Easy setup using **Thonny IDE**.  
+✅ **Wireless control** of GPIO pins via Bluetooth  
+✅ Simple & efficient **BLE (Bluetooth Low Energy)** communication  
+✅ Easy setup using **Thonny IDE**  
 
 ---
 
@@ -61,6 +85,13 @@ The system allows **wireless control of GPIO pins** via a **Serial Bluetooth Ter
 
 ---
 
+## 📷 Screenshot  
+<p align="center">
+  <img src="https://your-image-url.com/screenshot.jpg" alt="Home Automation Screenshot" width="600"/>
+</p>
+
+---
+
 ## 🚀 Future Enhancements  
 🔹 **Adding support for more GPIO pins.**  
 🔹 **Implementing a mobile app for better UI control.**  
@@ -68,9 +99,10 @@ The system allows **wireless control of GPIO pins** via a **Serial Bluetooth Ter
 
 ---
 
-✅ **Like this project?** Give it a ⭐ on **GitHub!**  
-🔗 **Contributions welcome!** Feel free to submit a **Pull Request (PR).**  
+## 📢 Contribute & Support  
 
----
-
-This `.md` file now looks **clean, structured, and visually appealing** for GitHub. 🚀 Let me know if you need more modifications! 😊  
+<p align="center">
+  ⭐ **If you like this project, consider giving it a star on GitHub!**  
+  <br>  
+  💡 **Pull requests are welcome!** Feel free to contribute and improve this project.  
+</p>

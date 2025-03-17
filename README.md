@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="[pico-w.png](https://github.com/Husnian149/PicoW-HomeControl/blob/main/pico-w.png)" target="_blank">
+  <a href="https://github.com/Husnian149/PicoW-HomeControl/blob/main/pico-w.png" target="_blank">
     <img src="https://your-image-url.com/logo.png" alt="Project Logo" width="150"/>
   </a>
 </p>

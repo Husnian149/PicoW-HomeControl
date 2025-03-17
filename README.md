@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/your-username/your-repository" target="_blank">
+  <a href="pico-w.png" target="_blank">
     <img src="https://your-image-url.com/logo.png" alt="Project Logo" width="150"/>
   </a>
 </p>

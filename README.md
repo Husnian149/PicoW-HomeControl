@@ -43,4 +43,4 @@ Future Enhancements
   •	Implementing a mobile app for better UI control.
   •	Expanding to include sensor data readings.
 ________________________________________
-
+hgfhgd
